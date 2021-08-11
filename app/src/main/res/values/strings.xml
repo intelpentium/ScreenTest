@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screen Test</string>
+    <string name="home_judul">Genre Film</string>
+    <string name="movie">Movie Detail</string>
+</resources>
